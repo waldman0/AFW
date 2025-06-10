@@ -1,4 +1,4 @@
-# AktuelleForschungsprojekte der Wirtschaftsinformatik
+# Aktuelle Forschungsprojekte der Wirtschaftsinformatik
 GitHub Repository für alle zusätzlichen Dateien des Papers KI und Fake News im Fach Aktuelle Forschungsprojekte der Wirtschaftsinformatik
 
 ## Deepfake- Generierung und Erkennung
